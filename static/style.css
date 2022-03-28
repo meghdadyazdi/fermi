@@ -1,0 +1,42 @@
+.canvas {
+    width:50%;
+    max-width:700px;
+    height:50%;
+    max-height: 400px;
+    position: relative;
+}
+
+#diffchart{
+    height: 150px;
+}
+
+.canvas2 {
+    width:50%;
+    max-width:700px;
+    height:50%;
+    max-height: 150px;
+}
+
+.textbox {
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height:50%;
+    visibility: hidden;
+}
+
+.fitdata {
+    font-size: 20px;
+    color: red;
+    margin: 0;
+    display:inline-block;
+    display:inline-block;
+}
+
+.inline{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    display:inline-block;
+}
