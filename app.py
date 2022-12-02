@@ -15,7 +15,6 @@ from numpy.linalg import norm
 from scipy.interpolate import interp1d
 import scipy.optimize
 import numpy as np
-# import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
